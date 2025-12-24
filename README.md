@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+### :man_technologist: About Me :
+
+I’m working as a Data Scientist. I am always trying to learn new things and improve my current skills.
+
+### :hammer_and_wrench: Languages and Tools :
+
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,mongodb,sqlite,azure,githubactions,docker,git,bash)](https://skillicons.dev)
+
 <!--
 **fahadishaq1/fahadishaq1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
